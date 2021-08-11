@@ -1,0 +1,7 @@
+.vscode
+P1/Data
+P1/*.c
+P1/serial
+P1/submission
+*/.vscode
+P4/data/read_gen.py
